@@ -1,2 +1,2 @@
 # Java-DSA
-My Java &amp; DSA learning journey
+My Java & DSA learning journey
